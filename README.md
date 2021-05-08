@@ -6,4 +6,4 @@ Bumper mechanism uses lerp and returns back to normal after 0.2 secs
 Builder Script used for Custom events for Flip Flop in Flippers
 Ray Tracing not used, can be enabled by project lighting presets.
 
-![](Images/Capture1.png)
+![](images/Capture1.png)
