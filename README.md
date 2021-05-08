@@ -5,4 +5,4 @@ Textures are private but can be made using Unreal Engine,
 Bumper mechanism uses lerp and returns back to normal after 0.2 secs
 Builder Script used for Custom events for Flip Flop in Flippers
 Ray Tracing not used, can be enabled by project lighting presets.
-![alt text](https://github.com/Alcatraz714/Unreal-Pinball-Texture-/blob/main/capture1.jpg?raw=true)
+![Texture Images](https://github.com/Alcatraz714/Unreal-Pinball-Texture-/main/capture1.jpg?raw=true)
